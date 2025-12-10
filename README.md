@@ -62,11 +62,7 @@ const miPropuesta = {
   <img src="https://img.shields.io/badge/BEHANCE-FFD700?style=for-the-badge&logo=behance&logoColor=000" />
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=anifdam&label=VISITAS&color=00FF41&style=for-the-badge" />
-
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:00D9FF,100:00FF41&height=80&section=footer" />
 

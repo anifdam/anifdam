@@ -28,7 +28,7 @@ Combino análisis social, pensamiento creativo y desarrollo tecnológico para co
 |:---------|:------------|:------|:-----|
 | **SouLink** | Plataforma de salud mental accesible | Java • JavaScript • HTML • CSS • Trello • Canva | [Ver código](https://github.com/anifdam/proyecto-soulink.git) |
 | **LaRataData** | Dashboard de analytics estratégico | JavaScript • HTML • CSS • SQL • Figma | [Ver código](https://github.com/anifdam/LaRataData.git) |
-| **Coding-Notebook** | Documentación de aprendizaje público | Python • Java • SQL | [Ver código](https://github.com/anifdam/coding-notebook.git) |
+| **Coding-Notebook** | Documentación de aprendizaje público | Python • Java • SQL • JavaScript • HTML • CSS| [Ver código](https://github.com/anifdam/coding-notebook.git) |
 
 ---
 

@@ -2,11 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00D9FF,100:FF0080&height=180&section=header&text=ANI%20MORALES&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=550&lines=PUBLICISTA+%2B+DEVELOPER;UX%2FUI+%7C+BIG+DATA;CREATIVE+%2B+TECH+%F0%9F%92%BB;CODE+THE+FUTURE+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=PUBLICISTA+%2B+DEVELOPER;CIENCIAS+SOCIALES+%7C+POL%C3%8DTICAS+P%C3%9ABLICAS;UX%2FUI+%7C+BIG+DATA;SOCIAL+IMPACT+%2B+TECH+%F0%9F%92%BB;CODE+THE+FUTURE+%F0%9F%9A%80" alt="Typing SVG" />
 
 ```
- █▀█ █▄░█ █░░ █ █▄░█ █▀▀  █▀▀ █▄█ █▀ ▀█▀ █▀▀ █▀▄▀█   
-█▄█ █░▀█ █▄▄ █ █░▀█ ██▄  ▄▄█ ░█░ ▄█ ░█░ ██▄ █░▀░█  
+█▀▀ █▄█ █▀ ▀█▀ █▀▀ █▀▄▀█   █▀█ █▄░█ █░░ █ █▄░█ █▀▀
+▄▄█ ░█░ ▄█ ░█░ ██▄ █░▀░█   █▄█ █░▀█ █▄▄ █ █░▀█ ██▄
 ```
 
 </div>
@@ -17,17 +17,19 @@
 
 ```javascript
 const ani = {
-  role: "Publicista → Full Stack Dev",
+  education: "Lic. Ciencias Sociales | Major: Políticas Públicas",
+  profession: "Publicista",
+  transition: "Social Sciences + Advertising → Tech",
   code: ["Java", "JavaScript", "Python", "SQL"],
   design: ["UX/UI", "Figma", "Branding"],
-  superpower: "Creativity + Tech + Strategy",
-  mission: "Transformar ideas en código con impacto"
+  superpower: "Public Policy + Creativity + Tech",
+  mission: "Tecnología con propósito social e impacto real"
 }
 ```
 
 <div align="center">
 
-### ⚡ *"Pienso como publicista, construyo como developer"*
+### ⚡ *"De las políticas públicas, pasando por las comunicaciones, al código público: tecnología para las personas"*
 
 </div>
 
@@ -112,10 +114,11 @@ Campañas • Trends • Data
 
 ```python
 skills = {
+    "🎓 SOCIAL SCIENCES": ["Public Policy", "Social Research", "Data Analysis"],
     "🎯 ADVERTISING": ["Branding", "Strategy", "Copywriting", "Campaigns"],
     "💻 DEVELOPMENT": ["Java", "JavaScript", "React", "Spring Boot", "SQL"],
-    "📊 DATA & DESIGN": ["Big Data", "UX/UI", "Figma", "Analytics"],
-    "⚡ INNOVATION": ["Agile", "Digital Trends", "Tech + Creativity"]
+    "📊 DATA & DESIGN": ["Big Data", "UX/UI", "Figma", "User Research"],
+    "⚡ IMPACT": ["Social Tech", "Civic Tech", "Digital Transformation"]
 }
 ```
 
@@ -127,7 +130,7 @@ skills = {
 
 ## 💫 CONNECT
 
-<a href="afmorales1@uc.cl">
+<a href="mailto:afmorales1@uc.cl">
   <img src="https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=000" />
 </a>
 <a href="https://www.linkedin.com/in/anitamoralesmoreno/">

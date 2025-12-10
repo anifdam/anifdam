@@ -18,8 +18,6 @@ Combino análisis social, pensamiento creativo y desarrollo tecnológico para co
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,react,python,mysql,html,css,git,github,figma&theme=dark&perline=6" />
-
 </div>
 
 ---
@@ -28,7 +26,7 @@ Combino análisis social, pensamiento creativo y desarrollo tecnológico para co
 
 | Proyecto | Descripción | Stack | Link |
 |:---------|:------------|:------|:-----|
-| **SouLink** | Plataforma de salud mental accesible | JavaScript • HTML • CSS • Trello • Canva | [Ver código](https://github.com/anifdam/proyecto-soulink.git) |
+| **SouLink** | Plataforma de salud mental accesible | Java • JavaScript • HTML • CSS • Trello • Canva | [Ver código](https://github.com/anifdam/proyecto-soulink.git) |
 | **LaRataData** | Dashboard de analytics estratégico | JavaScript • HTML • CSS • SQL • Figma | [Ver código](https://github.com/anifdam/LaRataData.git) |
 | **CuadernoTECH** | Documentación de aprendizaje público | Python • Java • SQL | [Ver código](https://github.com/anifdam/proyecto-c) |
 

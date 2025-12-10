@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%F0%9F%8E%A8+PUBLICISTA+%2B+DESARROLLADORA;%F0%9F%92%A1+CREATIVIDAD+%2B+ESTRATEGIA+%2B+C%C3%93DIGO" alt="Typing SVG" />
 
-### 💫 *Pienso en políticas. Creo como publicista. Construyo con código.*
+### 💫 *Pienso en personas. Creo como publicista. Construyo con código.*
 
 </div>
 

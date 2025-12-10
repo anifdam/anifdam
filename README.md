@@ -1,74 +1,33 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:00b8ff,100:ff00ff&height=200&section=header&text=ANI%20MORALES%20MORENO&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Publicista%20%7C%20Full%20Stack%20Developer%20%7C%20UX/UI%20%7C%20Big%20Data&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00D9FF,100:FF0080&height=180&section=header&text=ANI%20MORALES&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00FF9F&center=true&vCenter=true&width=600&lines=%3C+Publicista+%2B+Developer+%2F%3E;%3C+Full+Stack+Java+Dev+%2F%3E;%3C+Big+Data+%26+UX%2FUI+%2F%3E;%3C+Creatividad+%2B+Tecnolog%C3%ADa+%2F%3E;%3C+Explorando+el+Futuro+%F0%9F%9A%80+%2F%3E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=550&lines=PUBLICISTA+%2B+DEVELOPER;UX%2FUI+%7C+BIG+DATA;CREATIVE+%2B+TECH+%F0%9F%92%BB;CODE+THE+FUTURE+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br>
-
-```ascii
-╔══════════════════════════════════════════════════════════════════════╗
-║  > Sistema Iniciado...                                              ║
-║  > Cargando Perfil Dev...                                           ║
-║  > Status: ████████████████████ 100% ONLINE                         ║
-╚══════════════════════════════════════════════════════════════════════╝
+```
+ █▀█ █▄░█ █░░ █ █▄░█ █▀▀  █▀▀ █▄█ █▀ ▀█▀ █▀▀ █▀▄▀█   
+ █▄█ █░▀█ █▄▄ █ █░▀█ ██▄  ▄▄█ ░█░ ▄█ ░█░ ██▄ █░▀░█  
 ```
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="25" /> SISTEMA_INFO.exe
-
-<table>
-<tr>
-<td>
+## 💚 SYSTEM.info
 
 ```javascript
-class AniDeveloper {
-  constructor() {
-    this.name = "Ani Morales Moreno";
-    this.role = "Publicista + Full Stack Dev";
-    this.background = "Advertising & Communications";
-    this.transition = "Publicidad → Tech";
-    this.location = "Santiago, CL 🇨🇱";
-    this.superpower = "Creative + Analytical + Tech";
-  }
-  
-  getCurrentMission() {
-    return [
-      "🎨 Fusionar publicidad con tecnología",
-      "🔮 Transformar data en narrativas",
-      "💻 Código con estrategia creativa",
-      "🚀 Innovación con propósito social"
-    ];
-  }
-  
-  getPassions() {
-    return {
-      advertising: ["Branding", "Storytelling", "Estrategia"],
-      tech: ["Big Data", "UX/UI", "Development"],
-      culture: ["🎮 Gaming", "🎶 Music", "🎬 Cinema"],
-      motto: "El futuro no se predice... se programa"
-    };
-  }
-  
-  getUniqueValue() {
-    return "Mente publicitaria + Habilidades tech = Soluciones innovadoras";
-  }
+const ani = {
+  role: "Publicista → Full Stack Dev",
+  code: ["Java", "JavaScript", "Python", "SQL"],
+  design: ["UX/UI", "Figma", "Branding"],
+  superpower: "Creativity + Tech + Strategy",
+  mission: "Transformar ideas en código con impacto"
 }
 ```
 
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-```diff
-+ "Publicista que programa. Developer que cuenta historias."
-+ "No temas a la máquina. Témele si no evolucionas con ella"
-```
+### ⚡ *"Pienso como publicista, construyo como developer"*
 
 </div>
 
@@ -76,107 +35,87 @@ class AniDeveloper {
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> TECH_STACK.json
+## 🔮 TECH_STACK
 
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,python,mysql,git,github,figma,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,python,mysql,html,css,git,github,figma,vscode&theme=dark&perline=6" />
 
-<br>
+<br><br>
 
-```yaml
-┌─────────────────────────────────────────────────────────────┐
-│                    🌈 LEARNING ROADMAP                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  🟢 FUNDAMENTOS           ⚡ EXPLORANDO         🔮 PRÓXIMO   │
-│  ├─ HTML & CSS           ├─ Java              ├─ Spring     │
-│  ├─ JavaScript           ├─ SQL               ├─ Big Data   │
-│  ├─ Git & GitHub         ├─ React             ├─ Python     │
-│  └─ Figma                └─ MySQL             └─ Docker     │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
-```
+| 🟢 FUNDAMENTOS | ⚡ LEARNING NOW | 🔥 NEXT LEVEL |
+|:---:|:---:|:---:|
+| HTML/CSS/JS | Java & Spring | Big Data |
+| Git & Figma | React & SQL | Python Pro |
 
-<br>
+</div>
+
+---
+
+## 💎 FEATURED_PROJECTS
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" align="center">
 
-### 🟢 LEVEL 1
-**FUNDAMENTOS**
+### `SouLink`
+**Mental Health Tech**
 
-```python
-status = "Active"
-progress = "Building"
-```
-`HTML` `CSS` `JS` `Git`
+`Java` `Spring` `MySQL`
+
+[![CODE](https://img.shields.io/badge/CODE-00FF41?style=for-the-badge&logo=github&logoColor=000)](https://github.com/anifdam/proyecto-soulink.git)
 
 </td>
-<td align="center" width="33%">
+<td width="50%" align="center">
 
-### ⚡ LEVEL 2
-**EN DESARROLLO**
+### `LaRataData`
+**UX Analytics Dashboard**
 
-```python
-status = "Learning"
-progress = "Evolving"
-```
-`Java` `SQL` `React`
+`JavaScript` `SQL` `Figma`
+
+[![CODE](https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/anifdam/LaRataData.git)
 
 </td>
-<td align="center" width="33%">
+</tr>
 
-### 🔮 LEVEL 3
-**NEXT QUEST**
+<tr>
+<td width="50%" align="center">
 
-```python
-status = "Upcoming"
-progress = "Soon"
-```
-`Spring` `Big Data` `Python`
+### `CuadernoTECH`
+**Learning Journey**
+
+`Python` `Java` `SQL`
+
+[![CODE](https://img.shields.io/badge/CODE-FF0080?style=for-the-badge&logo=github&logoColor=000)](https://github.com/anifdam/proyecto-c)
+
+</td>
+<td width="50%" align="center">
+
+### `More Projects`
+**Portfolio Collection**
+
+Campañas • Trends • Data
+
+[![REPOS](https://img.shields.io/badge/ALL_REPOS-FFD700?style=for-the-badge&logo=github&logoColor=000)](https://github.com/anifdam?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
-
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> SKILLS_MATRIX.db
-
 <div align="center">
+
+## 🚀 SKILLS.matrix
 
 ```python
 skills = {
-    "🎯 ADVERTISING & STRATEGY": [
-        "Branding", "Strategic Planning",
-        "Copywriting", "Campaign Design",
-        "Digital Marketing", "Consumer Insights",
-        "Creative Concepts", "Media Planning"
-    ],
-    
-    "💻 DEVELOPMENT": [
-        "Java", "Spring Boot", "HTML", "CSS", 
-        "JavaScript", "React", "SQL", "Python", 
-        "Git", "GitHub", "MySQL"
-    ],
-    
-    "📊 DATA & DESIGN": [
-        "Big Data", "UX/UI", "Figma",
-        "User Research", "Design Thinking",
-        "Data Visualization", "Storytelling"
-    ],
-    
-    "🚀 INNOVATION": [
-        "Agile", "Scrum", "Digital Trends",
-        "Pop Culture Analysis", "Tech + Creativity",
-        "Social Impact", "Cross-disciplinary Thinking"
-    ]
+    "🎯 ADVERTISING": ["Branding", "Strategy", "Copywriting", "Campaigns"],
+    "💻 DEVELOPMENT": ["Java", "JavaScript", "React", "Spring Boot", "SQL"],
+    "📊 DATA & DESIGN": ["Big Data", "UX/UI", "Figma", "Analytics"],
+    "⚡ INNOVATION": ["Agile", "Digital Trends", "Tech + Creativity"]
 }
 ```
 
@@ -184,199 +123,42 @@ skills = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="28" /> FEATURED_PROJECTS.sys
-
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+## 💫 CONNECT
 
-<div align="center">
-
-### 💙 `SouLink.exe`
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-```javascript
-// Mental Health Platform
-const project = {
-  mission: "Combatir depresión",
-  tech: ["Java", "Spring", "MySQL"],
-  impact: "Salud Mental Chile",
-  status: "🟢 Active"
-}
-```
-
-[![Repo](https://img.shields.io/badge/ACCEDER_AL_CÓDIGO-00ff9f?style=for-the-badge&logo=github&logoColor=black)](https://github.com/anifdam/proyecto-soulink.git)
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-### 💚 `LaRataData.py`
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-```javascript
-// UX Analytics Dashboard
-const project = {
-  mission: "Data Visualization",
-  tech: ["JavaScript", "SQL", "Figma"],
-  impact: "Decisiones informadas",
-  status: "🟢 Active"
-}
-```
-
-[![Repo](https://img.shields.io/badge/ACCEDER_AL_CÓDIGO-00b8ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/anifdam/LaRataData.git)
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<div align="center">
-
-### 🩷 `CuadernoTECH.md`
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-```javascript
-// Learning Journey
-const project = {
-  mission: "Ejercicios & Prácticas",
-  tech: ["Python", "Java", "SQL"],
-  impact: "Transición profesional",
-  status: "🟡 Learning"
-}
-```
-
-[![Repo](https://img.shields.io/badge/ACCEDER_AL_CÓDIGO-ff00ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/anifdam/proyecto-c)
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-### 💎 `More_Projects.git`
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-```javascript
-// Portfolio Collection
-const explore = {
-  portfolio: "Campañas",
-  trends: "Actualidad",
-  data: "Visualización",
-  blog: "Coming Soon"
-}
-```
-
-[![Ver Todos](https://img.shields.io/badge/VER_REPOSITORIOS-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/anifdam?tab=repositories)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" /> CURRENT_STATUS.log
-
-```typescript
-interface CurrentWork {
-  learning: string[];
-  exploring: string;
-  seeking: string;
-  philosophy: string;
-  uniqueApproach: string;
-}
-
-const ani: CurrentWork = {
-  learning: [
-    "☕ Java Backend Development",
-    "⚛️ React & Frontend Architecture", 
-    "🗄️ Database Design & SQL"
-  ],
-  exploring: "La intersección entre Publicidad, Data, Design & Tech",
-  seeking: "Proyectos donde Creatividad Publicitaria + Tecnología = Impacto",
-  philosophy: "Estrategia + Código + Narrativa = Soluciones que conectan",
-  uniqueApproach: "Pienso como publicista, construyo como developer"
-};
-
-console.log("🚀 System Ready. Let's Create & Code the Future.");
-```
-
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="28" /> CONNECT_NETWORK.io
-
-<a href="mailto:afmorales1@uc.cl">
-  <img src="https://img.shields.io/badge/EMAIL-00ff9f?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black" alt="Email"/>
+<a href="afmorales1@uc.cl">
+  <img src="https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=000" />
 </a>
 <a href="https://www.linkedin.com/in/anitamoralesmoreno/">
-  <img src="https://img.shields.io/badge/LINKEDIN-00b8ff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=000" />
 </a>
 <a href="https://github.com/anifdam">
-  <img src="https://img.shields.io/badge/GITHUB-ff00ff?style=for-the-badge&logo=github&logoColor=black&labelColor=black" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-FF0080?style=for-the-badge&logo=github&logoColor=000" />
 </a>
 <a href="https://www.behance.net/anitamorales4">
-  <img src="https://img.shields.io/badge/BEHANCE-00ff9f?style=for-the-badge&logo=behance&logoColor=black&labelColor=black" alt="Behance"/>
+  <img src="https://img.shields.io/badge/BEHANCE-FFD700?style=for-the-badge&logo=behance&logoColor=000" />
 </a>
 
 <br><br>
 
-```python
-def main():
-    print("╔════════════════════════════════════════════════════════════════╗")
-    print("║                                                                ║")
-    print("║     'La mejor tecnología es la que conecta con las personas'  ║")
-    print("║                                                                ║")
-    print("╚════════════════════════════════════════════════════════════════╝")
-    
-if __name__ == "__main__":
-    main()
+```
+╔═══════════════════════════════════════════════════════════╗
+║  STATUS: LEARNING  █████████████████████  ONLINE          ║
+║  "La mejor tecnología conecta con las personas"          ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=anifdam&label=PROFILE+VIEWS&color=00ff9f&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=anifdam&label=VIEWS&color=00FF41&style=for-the-badge" />
 
 <br><br>
 
-```ascii
- ____________________________________________________________________
-|                                                                    |
-|  > System: OPERATIONAL                                             |
-|  > Mode: CREATIVE                                                  |
-|  > Status: LEARNING                                                |
-|  > Mission: BUILD_THE_FUTURE                                       |
-|____________________________________________________________________|
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00b8ff,100:00ff9f&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:00D9FF,100:00FF41&height=100&section=footer" />
 
 </div>

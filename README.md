@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00D9FF,100:FF0080&height=120&section=header&text=ANI%20MORALES&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%F0%9F%8E%A8+PUBLICISTA+%2B+DESARROLLADORA;%F0%9F%92%A1+CREATIVIDAD+%2B+ESTRATEGIA+%2B+C%C3%93DIGO" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%F0%9F%8E%A8+PUBLICISTA+%2B+DESARROLLADORA;%F0%9F%8F%9B%EF%B8%8F+POL%C3%8DTICAS+P%C3%9ABLICAS+%2B+TECH;%F0%9F%92%A1+CREATIVIDAD+%2B+ESTRATEGIA+%2B+C%C3%93DIGO;%F0%9F%9A%80+MULTIDISCIPLINA+EN+ACCI%C3%93N" alt="Typing SVG" />
 
-### 💫 *Pienso en personas. Creo como publicista. Construyo con código.*
+### 💫 *Pienso en políticas. Creo como publicista. Construyo con código.*
 
 </div>
 
